@@ -57,7 +57,7 @@ MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stac
 **🏋️ FitForge**
 AI-Powered Fitness Platform
 
-[Live Demo](https://fitforge-hd.vercel.app/) · [Code](https://github.com/hilalahmd/FitForge)
+[Live Demo](https://fitforge-hd.vercel.app/) · [Code](https://github.com/hilalahmd/Single-Project-)
 
 - 80+ REST endpoints, 15+ modules
 - Custom RAG chatbot for fitness Q&A
