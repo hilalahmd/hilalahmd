@@ -1,101 +1,115 @@
-<h1 align="center">Hi 👋, I'm Hilal Ahammed</h1>
-<h3 align="center">MERN Stack Developer | Building AI-Powered Full-Stack Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hilal%20Ahammed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20App%20Builder&descAlignY=55&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node;Integrating+LLMs+%26+RAG+pipelines;Self-taught+%7C+Always+shipping" alt="Typing SVG"/>
+
+<p>
+<a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently building AI-powered web apps as a **MERN Stack Developer** at **Bridgeon Solutions**, Kozhikode
-- 💻 Core stack: **React.js · Node.js · Express.js · MongoDB**
-- 🤖 Integrating **LLM APIs, RAG pipelines, vector embeddings & semantic search** into real products
-- 🏗️ Solo-architected **FitForge** — an AI fitness SaaS platform with 80+ REST endpoints
-- 🛒 Built **Audibox** — a full e-commerce platform with Stripe & Razorpay payments
-- 🌱 Self-taught developer, always leveling up in web + AI engineering
-- 📫 Reach me: **hilaljr970@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 About Me
+
+```yaml
+name: Hilal Ahammed
+role: MERN Stack Developer
+company: Bridgeon Solutions, Kozhikode
+focus: Full-stack apps with integrated AI/LLM features
+background: Self-taught, building since day one
+currently_exploring: RAG pipelines, vector search, agentic AI
+```
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
 
 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css&theme=dark" />
 
 **Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,postman&theme=dark" />
 
 **Database**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
-**AI / GenAI**
-<p>
-<img src="https://img.shields.io/badge/LLM%20API%20Integration-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipeline-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector%20Embeddings-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-FF6F00?style=flat-square"/>
-</p>
+**AI / Auth / Tools**
+<img src="https://skillicons.dev/icons?i=openai,git,github,githubactions,aws,vercel&theme=dark" />
 
-**Auth & Security**
-<p>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/bcrypt-338833?style=flat-square"/>
-<img src="https://img.shields.io/badge/RBAC-4B4B4B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Helmet.js-000000?style=flat-square"/>
-</p>
+</div>
 
-**Tools & Deployment**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-</p>
+<details>
+<summary><b>📌 Full skill breakdown (click to expand)</b></summary>
+<br>
+
+| Category | Skills |
+|---|---|
+| **Frontend** | React.js, Redux Toolkit, Context API, React Router, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, REST APIs, MVC Architecture, Socket.io, WebRTC, Multer |
+| **Database** | MongoDB, Mongoose, Aggregation Pipeline, Data Modeling |
+| **AI Integration** | RAG Pipeline, Vector Embeddings, Semantic Search, LLM API Integration |
+| **Auth & Security** | JWT, HttpOnly Cookies, bcrypt, RBAC, Rate Limiting, Helmet |
+| **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
+
+</details>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏋️ [FitForge](https://github.com/hilalahmd/FitForge) — AI-Powered Fitness Platform
-Full-stack SaaS platform with 80+ REST endpoints, RAG chatbot, AI diet/workout generator, and real-time video coaching via WebRTC.
-`React` `Node.js` `MongoDB` `Socket.io` `WebRTC` `RAG` `JWT`
+<table>
+<tr>
+<td width="50%">
 
-#### 🛒 [Audibox](https://github.com/hilalahmd/Audibox-E-commerce) — Full-Stack E-Commerce Platform
-E-commerce platform with 200+ product listings, Stripe & Razorpay payments, and an admin analytics dashboard.
-`React` `Vite` `Node.js` `MongoDB` `Stripe` `Razorpay`
+**🏋️ [FitForge](https://github.com/hilalahmd/FitForge)**
+AI-powered fitness SaaS platform
+
+- 80+ REST endpoints, 15+ modules
+- Custom RAG chatbot for fitness Q&A
+- AI-generated 30-day diet/workout plans
+- Live video coaching (WebRTC)
+
+`React` `Node` `MongoDB` `Socket.io`
+
+</td>
+<td width="50%">
+
+**🛒 [Audibox](https://github.com/hilalahmd/Audibox-E-commerce)**
+Full-stack e-commerce platform
+
+- 200+ product listings
+- Stripe & Razorpay payments
+- Admin analytics dashboard
+- Hardened security (Helmet, RBAC)
+
+`React` `Vite` `Node` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalahmd&theme=radical&hide_border=true" height="165"/>
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalahmd&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hilalahmd&theme=redical&hide_border=true" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
+</div>
