@@ -1,33 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hilal%20Ahammed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Application%20Builder&descAlignY=55&descSize=18"/>
+# Hilal Ahammed
+### MERN Stack Developer | AI Application Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node;Integrating+LLMs+%26+RAG+pipelines;Self-taught+%7C+Always+shipping" alt="Typing SVG"/>
-
-<br>
+Building full-stack apps with React + Node • Integrating LLMs & RAG pipelines • Self-taught | Always shipping
 
 <a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
-
 <br>
 
 ## About
-
 MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stack web applications and integrating LLM-powered features into production systems. Self-taught, project-driven, focused on writing clean, secure, scalable code.
-
 <br>
 
 ## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js&theme=light" height="45"/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,postman&theme=light" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb,openai&theme=light" height="45"/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vercel,render&theme=light" height="45"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -45,7 +54,6 @@ MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stac
 | **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
 
 </details>
-
 <br>
 
 ## Featured Projects
@@ -84,26 +92,19 @@ Full-Stack E-Commerce Platform
 </td>
 </tr>
 </table>
-
 <br>
 
 ## GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalahmd&theme=default&hide_border=true" width="70%"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true)
 
+</div>
 <br>
 
 <div align="center">
 
 📧 **hilaljr970@gmail.com**  ·  📍 Kozhikode, Kerala
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer"/>
 
 </div>
