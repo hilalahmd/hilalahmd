@@ -1,37 +1,40 @@
 <div align="center">
 
-# Hilal Ahammed
-### MERN Stack Developer | AI Application Builder
+<h1 align="center">Hi 👋, I'm Hilal Ahammed</h1>
+<h3 align="center">MERN Stack Developer | AI Application Builder</h3>
 
-Building full-stack apps with React + Node • Integrating LLMs & RAG pipelines • Self-taught | Always shipping
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Application+Builder;React+%7C+Node+%7C+MongoDB;Integrating+LLMs+%26+RAG+Pipelines;Self-taught+%7C+Always+Shipping" />
+</p>
 
 <a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
 <br>
 
 ## About
+
 MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stack web applications and integrating LLM-powered features into production systems. Self-taught, project-driven, focused on writing clean, secure, scalable code.
+
 <br>
 
 ## Tech Stack
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -54,6 +57,7 @@ MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stac
 | **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
 
 </details>
+
 <br>
 
 ## Featured Projects
@@ -92,15 +96,18 @@ Full-Stack E-Commerce Platform
 </td>
 </tr>
 </table>
+
 <br>
 
 ## GitHub Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true)
 
 </div>
+
 <br>
 
 <div align="center">
