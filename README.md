@@ -103,8 +103,8 @@ Full-Stack E-Commerce Platform
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true)
 
 </div>
 
