@@ -1,17 +1,30 @@
 <div align="center">
-# Hilal Ahammed
-### MERN Stack Developer | AI Application Builder
-Building full-stack apps with React + Node • Integrating LLMs & RAG pipelines • Self-taught | Always shipping
+
+<h1 align="center">Hi 👋, I'm Hilal Ahammed</h1>
+<h3 align="center">MERN Stack Developer | AI Application Builder</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Application+Builder;React+%7C+Node+%7C+MongoDB;Integrating+LLMs+%26+RAG+Pipelines;Self-taught+%7C+Always+Shipping" />
+</p>
+
 <a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </div>
+
 <br>
+
 ## About
+
 MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stack web applications and integrating LLM-powered features into production systems. Self-taught, project-driven, focused on writing clean, secure, scalable code.
+
 <br>
+
 ## Tech Stack
+
 <div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -27,10 +40,13 @@ MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stac
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 </div>
+
 <details>
 <summary><b>Full skill breakdown</b></summary>
 <br>
+
 | Category | Skills |
 |---|---|
 | **Frontend** | React.js, Redux Toolkit, Context API, React Router, Tailwind CSS, Bootstrap |
@@ -39,40 +55,63 @@ MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stac
 | **AI Integration** | RAG Pipeline, Vector Embeddings, Semantic Search, LLM API Integration |
 | **Auth & Security** | JWT, HttpOnly Cookies, bcrypt, RBAC, Rate Limiting, Helmet |
 | **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
+
 </details>
+
 <br>
+
 ## Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
+
 **🏋️ FitForge**
 AI-Powered Fitness Platform
+
 [Live Demo](https://fitforge-hd.vercel.app/) · [Code](https://github.com/hilalahmd/Single-Project-)
+
 - 80+ REST endpoints, 15+ modules
 - Custom RAG chatbot for fitness Q&A
 - AI-generated 30-day diet/workout plans
 - Live video coaching (WebRTC)
-React Node MongoDB Socket.io
+
+`React` `Node` `MongoDB` `Socket.io`
+
 </td>
 <td width="50%" valign="top">
+
 **🛒 Audibox**
 Full-Stack E-Commerce Platform
+
 [Live Demo](https://audibox-e-commerce-erlk.vercel.app/) · [Code](https://github.com/hilalahmd/Audibox-E-commerce)
+
 - 200+ product listings
 - Stripe & Razorpay payments
 - Admin analytics dashboard
 - Hardened security (Helmet, RBAC)
-React Vite Node MongoDB
+
+`React` `Vite` `Node` `MongoDB`
+
 </td>
 </tr>
 </table>
+
 <br>
+
 ## GitHub Stats
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
+
 </div>
+
 <br>
+
 <div align="center">
+
 📧 **hilaljr970@gmail.com**  ·  📍 Kozhikode, Kerala
+
 </div>
