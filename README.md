@@ -1,155 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Hilal%20Ahammed&fontSize=44&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Developer%20%C2%B7%20AI%20Application%20Builder&descAlignY=85&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Hilal%20Ahammed&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=MERN%20Stack%20Developer%20%C2%B7%20AI%20Application%20Builder&descSize=18&descAlignY=65&descColor=e0f2fe" width="100%"/>
 
-<a href="https://github.com/hilalahmd">
-<img src="https://img.shields.io/badge/◉_GitHub-0D1117?style=flat-square&logoColor=white"/>
-</a>
+**I build production-style full-stack apps with secure APIs, real-time features and LLM-powered functionality.**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/◉_LinkedIn-0D1117?style=flat-square&logoColor=0A66C2"/>
-</a>
+<a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hilalahmd"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://portfolio-one-gold-29.vercel.app">
-<img src="https://img.shields.io/badge/◉_Portfolio-0D1117?style=flat-square&logoColor=7C3AED"/>
-</a>
-
-<a href="mailto:hilaljr970@gmail.com">
-<img src="https://img.shields.io/badge/◉_Email-0D1117?style=flat-square&logoColor=EA4335"/>
-</a>
-
-<br/><br/>
-
-📍 Kozhikode, Kerala &nbsp;·&nbsp; 🟢 Open to MERN / Full-Stack opportunities
+📍 Kozhikode, Kerala, India &nbsp;·&nbsp; 🟢 **Open to MERN / Full-Stack Developer roles**
 
 </div>
 
 ---
 
+## 📊 At a Glance
+
 <div align="center">
 
-<!-- Optional: add your own GIF at Assets/hero.gif, then uncomment -->
-<!-- <img src="Assets/hero.gif" width="280"/> -->
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-#### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</td>
-</tr>
-
-</table>
+| 80+ | 15+ | 200+ | 2 |
+|:---:|:---:|:---:|:---:|
+| REST endpoints in one app (FitForge) | Backend modules in one app (FitForge) | Product listings in Audibox | Payment gateways integrated (Stripe, Razorpay) |
 
 </div>
 
 ---
 
-<div align="center">
-  <br/>
+## 💼 Experience
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=14&letterSpacing=8&duration=4000&pause=2000&color=1F6FEB&center=true&vCenter=true&width=600&height=40&lines=F+E+A+T+U+R+E+D++P+R+O+J+E+C+T+S" alt="Featured Projects" />
+### MERN Stack Developer · Bridgeon Solutions
+📍 Kozhikode, Kerala &nbsp;|&nbsp; 🗓️ START-DATE – Present
 
-  <br/>
-
-  <table width="850">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h4>🏋️ FitForge</h4>
-        <p><i>AI-powered fitness platform connecting clients with trainers</i></p>
-        <p>80+ REST endpoints · Custom RAG chatbot<br/>AI-generated 30-day plans · WebRTC video coaching</p>
-        <p><code>React</code> <code>Node</code> <code>MongoDB</code> <code>Socket.io</code></p>
-        <a href="https://fitforge-hd.vercel.app/">Live Demo</a> · <a href="https://github.com/hilalahmd/Single-Project-">Code</a>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <h4>🛒 Audibox</h4>
-        <p><i>Full-stack e-commerce platform</i></p>
-        <p>200+ products · Stripe &amp; Razorpay payments<br/>Admin analytics · Helmet, RBAC hardening</p>
-        <p><code>React</code> <code>Vite</code> <code>Node</code> <code>MongoDB</code></p>
-        <a href="https://audibox-e-commerce-erlk.vercel.app/">Live Demo</a> · <a href="https://github.com/hilalahmd/Audibox-E-commerce">Code</a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-</div>
+- Build full-stack web applications with React, Node.js, Express and MongoDB
+- Integrate LLM-powered features into production systems
+- Write clean, secure and scalable code
+<!-- Add 2-3 more bullets with real work: features you shipped, bugs you fixed, tools you used -->
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏋️ FitForge — AI-Powered Fitness Platform
+Connects clients with trainers, with AI built into the core experience.
+
+[**Live Demo**](https://fitforge-hd.vercel.app/) &nbsp;·&nbsp; [**Source Code**](https://github.com/hilalahmd/Single-Project-)
+
+- **80+ REST endpoints** across **15+ modules**
+- **Custom RAG chatbot** for fitness Q&A
+- **AI-generated 30-day** diet and workout plans
+- **Live video coaching** with WebRTC
+- Real-time communication with Socket.io
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `WebRTC` `RAG`
+
+### 🛒 Audibox — Full-Stack E-Commerce Platform
+Complete shopping flow with payments and an admin side.
+
+[**Live Demo**](https://audibox-e-commerce-erlk.vercel.app/) &nbsp;·&nbsp; [**Source Code**](https://github.com/hilalahmd/Audibox-E-commerce)
+
+- **200+ product listings**
+- **Stripe and Razorpay** payment integration
+- **Admin analytics dashboard**
+- Security hardening with **Helmet and role-based access control**
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Stripe` `Razorpay`
+
+### 🔁 HabitFlow — AI Habit Tracker
+Deployed habit tracker with AI features and web push notifications.
+
+[**Live Demo**](ADD-LINK) &nbsp;·&nbsp; [**Source Code**](ADD-LINK)
+
+- AI-powered habit insights using an LLM API
+- Web push notifications
+
+`React` `Node.js` `MongoDB`
+
+---
+
+## 🏗️ How FitForge Works
+
+```mermaid
+flowchart LR
+    A[React Client] -->|REST API| B[Express Server]
+    B -->|JWT + RBAC| C[(MongoDB)]
+    A <-->|Socket.io / WebRTC| D[Real-time Layer]
+    B -->|Embeddings + Retrieval| E[RAG Pipeline]
+    E --> F[LLM API]
+```
+
+---
+
+## 🛠️ Skills
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) Mongoose, Aggregation Pipeline, Data Modeling |
+| **AI** | RAG pipelines, Vector Embeddings, Semantic Search, LLM API Integration |
+| **Security** | JWT, HttpOnly Cookies, bcrypt, RBAC, Rate Limiting, Helmet |
+| **Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) MongoDB Atlas, Cloudinary |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+## 🔐 Engineering Practices
+
+- **Architecture:** MVC structure, modular REST APIs, clean separation of concerns
+- **Security:** JWT with HttpOnly cookies, bcrypt hashing, RBAC, rate limiting, Helmet headers
+- **Data:** Mongoose schemas, aggregation pipelines for analytics
+- **Delivery:** Git workflow, Postman-tested APIs, deployed on Vercel, Render and AWS
+
+---
+
+<!-- Optional: uncomment once your account has some activity
+## 📈 GitHub Activity
 <div align="center">
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=14&letterSpacing=8&duration=4000&pause=2000&color=1F6FEB&center=true&vCenter=true&width=600&height=40&lines=W+H+A+T+I++F+O+C+U+S+O+N" alt="What I focus on" />
-
-  <br/>
-
-  <table width="850">
-    <tr>
-      <td align="center" width="50%">
-        <h4>01. BACKEND</h4>
-        <p><i>Secure, well-structured REST APIs with auth, RBAC and rate limiting.</i></p>
-      </td>
-      <td align="center" width="50%">
-        <h4>02. AI INTEGRATION</h4>
-        <p><i>RAG pipelines, embeddings and LLM features inside real products.</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h4>03. REAL-TIME</h4>
-        <p><i>Live features with Socket.io and WebRTC.</i></p>
-      </td>
-      <td align="center" width="50%">
-        <h4>04. SHIPPING</h4>
-        <p><i>Building, deploying and improving complete products end to end.</i></p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=hilalahmd&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=radical&hide_border=true" height="160"/>
 </div>
+-->
+
+## 📫 Let's Work Together
+
+I'm looking for a **MERN Stack / Full-Stack Developer** role where I can ship real products and keep growing.
+
+- 📧 **Email:** [hilaljr970@gmail.com](mailto:hilaljr970@gmail.com)
+- 🌐 **Portfolio:** [portfolio-one-gold-29.vercel.app](https://portfolio-one-gold-29.vercel.app)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=15&letterSpacing=5&duration=4500&pause=2500&color=1F6FEB&center=true&vCenter=true&width=800&height=60&lines=%22Self-taught.+Project-driven.+Always+shipping.%22;%22Open+to+MERN+and+full-stack+roles.%22" alt="Tagline" />
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:06b6d4,50:6d28d9,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
