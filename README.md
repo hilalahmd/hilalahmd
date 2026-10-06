@@ -1,117 +1,66 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Hilal Ahammed</h1>
-<h3 align="center">MERN Stack Developer | AI Application Builder</h3>
+# Hilal Ahammed
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Application+Builder;React+%7C+Node+%7C+MongoDB;Integrating+LLMs+%26+RAG+Pipelines;Self-taught+%7C+Always+Shipping" />
-</p>
+### MERN Stack Developer · AI Application Builder
+
+I build full-stack web apps and add LLM-powered features (RAG chatbots, AI-generated plans) that real users can actually use.
 
 <a href="https://portfolio-one-gold-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hilaljr970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+📍 Kozhikode, Kerala, India · 🟢 Open to MERN / Full-Stack opportunities
 
 </div>
 
-<br>
+---
 
-## About
+## 👨‍💻 About
 
-MERN Stack Developer at **Bridgeon Solutions**, Kozhikode — building full-stack web applications and integrating LLM-powered features into production systems. Self-taught, project-driven, focused on writing clean, secure, scalable code.
+MERN Stack Developer at **Bridgeon Solutions**, Kozhikode. Self-taught and project-driven. I ship complete products: REST APIs, auth, payments, real-time features, deployment. I care about clean, secure, scalable code.
 
-<br>
+## 🚀 Featured Projects
 
-## Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-<details>
-<summary><b>Full skill breakdown</b></summary>
-<br>
-
-| Category | Skills |
-|---|---|
-| **Frontend** | React.js, Redux Toolkit, Context API, React Router, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, REST APIs, MVC Architecture, Socket.io, WebRTC, Multer |
-| **Database** | MongoDB, Mongoose, Aggregation Pipeline, Data Modeling |
-| **AI Integration** | RAG Pipeline, Vector Embeddings, Semantic Search, LLM API Integration |
-| **Auth & Security** | JWT, HttpOnly Cookies, bcrypt, RBAC, Rate Limiting, Helmet |
-| **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
-
-</details>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏋️ FitForge**
-AI-Powered Fitness Platform
-
-[Live Demo](https://fitforge-hd.vercel.app/) · [Code](https://github.com/hilalahmd/Single-Project-)
-
-- 80+ REST endpoints, 15+ modules
+### 🏋️ [FitForge](https://fitforge-hd.vercel.app/) — AI-Powered Fitness Platform
+Connects clients with trainers, with AI built into the experience.
+- 80+ REST endpoints across 15+ modules
 - Custom RAG chatbot for fitness Q&A
-- AI-generated 30-day diet/workout plans
-- Live video coaching (WebRTC)
+- AI-generated 30-day diet and workout plans
+- Live video coaching with WebRTC
+- **Stack:** React · Node.js · Express · MongoDB · Socket.io
 
-`React` `Node` `MongoDB` `Socket.io`
+[Live Demo](https://fitforge-hd.vercel.app/) · [Source Code](https://github.com/hilalahmd/Single-Project-)
 
-</td>
-<td width="50%" valign="top">
+### 🛒 [Audibox](https://audibox-e-commerce-erlk.vercel.app/) — Full-Stack E-Commerce
+- 200+ product listings with admin analytics dashboard
+- Stripe and Razorpay payment integration
+- Security hardening: Helmet, RBAC, rate limiting
+- **Stack:** React · Vite · Node.js · Express · MongoDB
 
-**🛒 Audibox**
-Full-Stack E-Commerce Platform
+[Live Demo](https://audibox-e-commerce-erlk.vercel.app/) · [Source Code](https://github.com/hilalahmd/Audibox-E-commerce)
 
-[Live Demo](https://audibox-e-commerce-erlk.vercel.app/) · [Code](https://github.com/hilalahmd/Audibox-E-commerce)
+<!--
+### 🔁 HabitFlow — AI Habit Tracker
+Add this once you have the links ready:
+- One-line description + 2-3 bullets
+- **Stack:** ...
+[Live Demo](LINK) · [Source Code](LINK)
+-->
 
-- 200+ product listings
-- Stripe & Razorpay payments
-- Admin analytics dashboard
-- Hardened security (Helmet, RBAC)
+## 🛠️ Tech Stack
 
-`React` `Vite` `Node` `MongoDB`
+| | |
+|---|---|
+| **Frontend** | React.js, Redux Toolkit, Context API, React Router, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, MVC, Socket.io, WebRTC |
+| **Database** | MongoDB, Mongoose, Aggregation Pipeline, Data Modeling |
+| **AI** | RAG pipelines, vector embeddings, semantic search, LLM API integration |
+| **Auth & Security** | JWT, HttpOnly cookies, bcrypt, RBAC, rate limiting, Helmet |
+| **Deployment** | AWS, Render, Vercel, MongoDB Atlas, Cloudinary |
+| **Tools** | Git, GitHub, Postman |
 
-</td>
-</tr>
-</table>
+## 📫 Let's Connect
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hilalahmd&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hilalahmd&layout=compact&theme=default&hide_border=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-📧 **hilaljr970@gmail.com**  ·  📍 Kozhikode, Kerala
-
-</div>
+Hiring for a MERN or full-stack role? I'd love to talk.
+**Email:** hilaljr970@gmail.com · **Portfolio:** [portfolio-one-gold-29.vercel.app](https://portfolio-one-gold-29.vercel.app)
